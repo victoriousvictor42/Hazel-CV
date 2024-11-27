@@ -1,2 +1,2 @@
 # Hazel-CV
-HTML and CSS
+HTML and CSS, a responsive CV
